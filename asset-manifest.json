@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/armaankhan8271/armaan/static/css/main.31d6cfe0.css",
+    "main.js": "/armaankhan8271/armaan/static/js/main.dbacfdfe.js",
+    "index.html": "/armaankhan8271/armaan/index.html",
+    "main.dbacfdfe.js.map": "/armaankhan8271/armaan/static/js/main.dbacfdfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.dbacfdfe.js"
+  ]
+}
